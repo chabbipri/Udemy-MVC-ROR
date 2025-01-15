@@ -17,3 +17,7 @@ Topics Covered:
    4. HTML forms: https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
 
    5. Alternate resource to learn HTML and CSS together while building a website: https://learn.shayhowe.com/html-css/
+
+6. Deployment of the Application to Heroku.
+
+7. Switch from sqlite to postgres by following the steps : https://medium.com/@rossabaker/switch-your-rails-app-from-sqlite-to-postgresql-a0474a29af20
